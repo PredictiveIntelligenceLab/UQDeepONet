@@ -8,4 +8,9 @@ We present a simple and effective approach for posterior uncertainty quantificat
 
 # Citation
 
-TBA
+    @article{yang2022scalable,
+      title={Scalable Uncertainty Quantification for Deep Operator Networks using Randomized Priors},
+      author={Yang, Yibo and Kissas, Georgios and Perdikaris, Paris},
+      journal={arXiv preprint arXiv:2203.03048},
+      year={2022}
+    }
